@@ -6,3 +6,5 @@ theme :
 ---
 {% include JB/setup %}
 {% include themes/mark-reid/default.html %}
+
+{% include JB/setup %}
